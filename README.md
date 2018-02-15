@@ -1,0 +1,2 @@
+# ayudare
+discord server helper
